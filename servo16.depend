@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1411909858 source:e:\files\dx1\servo16\fuse.c
+	<avr/io.h>
+
+1412172200 source:e:\files\dx1\servo16\main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
